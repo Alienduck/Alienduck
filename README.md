@@ -2,8 +2,6 @@
 
 I'm a **19-year-old French developer** and computer science student. I have a passion for low-level programming, algorithmics, and building tools from scratch.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alienduck)](https://github.com/Alienduck/github-readme-stats)
-
 ## 🛠️ Tech Stack & Preferences
 
 * **Core Focus:** `Rust` 🦀 (My personal favorite) & `C`.
